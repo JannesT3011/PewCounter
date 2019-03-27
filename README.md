@@ -27,7 +27,7 @@ token = ""
 python3 run.py
 ````
 6. Select a channel on your a discord server and type ``<YOURPREFIX>count``
-7. But will send a message and refresh the subs every 5 seconds
+7. The bot will send a message and refresh the subs every 5 seconds
 
 
 <div align=center>
